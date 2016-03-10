@@ -961,7 +961,7 @@ h2.slider__h1 a{
     width: 133px;
 }
 
-footer {
+.footer {
     width: 100%;
     background:  url("../img/320bg-footer.jpg") scroll center 0 no-repeat; 
     height: 201px;
@@ -972,7 +972,7 @@ footer {
   padding: 12% 0 0 28%;
 }
 
-footer p {
+.footer p {
     color: #fff;
     display: block;
     font: 12px "Open Sans Light",sans-serif;
@@ -980,7 +980,7 @@ footer p {
     text-shadow: 1px 2px 2px rgba(102, 95, 106, 1);
 }
 
-footer p span {
+.footer p span {
     color: #fff;
     font: bold 12px "Open Sans Light",sans-serif;
     letter-spacing: 0.03em;
@@ -1781,7 +1781,7 @@ h2.slider__h1 a{
     width: 155px;
 }
 
-footer {
+.footer {
     width: 100%;
     background:  url("../img/bg-footer.jpg") scroll center 0 no-repeat; 
     height: 201px;
@@ -1793,7 +1793,7 @@ footer {
  /* padding: 21% 34% 0 36%; */
 }
 
-footer p {
+.footer p {
     color: #fff;
     display: block;
     width: 36vw;
@@ -1804,7 +1804,7 @@ footer p {
     text-shadow: 1px 2px 2px rgba(102, 95, 106, 1);
 }
 
-footer p span {
+.footer p span {
     color: #fff;
     font: bold 2.5vw "Open Sans Light",sans-serif;
     letter-spacing: 0.03em;
@@ -2464,7 +2464,7 @@ margin: 9% 0 0 12%;
    
     clear:both;
  } */
-footer {
+.footer {
     
     background:  url("../img/bg-footer.jpg") center 0 no-repeat; 
     height: 201px;
@@ -2478,7 +2478,7 @@ footer {
      margin: -2% 1% 0 0;
 }
 
-footer p {
+.footer p {
     color: #fff;
     display: block;
     font: 12px "Open Sans Light",sans-serif;
@@ -2487,7 +2487,7 @@ footer p {
     width: auto;
  }
 
-footer p span {
+.footer p span {
     color: #fff;
     font: bold 12px "Open Sans Light",sans-serif;
     letter-spacing: 0.03em;
@@ -3166,7 +3166,7 @@ li.menu__item_drop-inside{
 }
 
 
-footer {
+.footer {
     
    background:  url("../img/960bg-footer.jpg") center 0 no-repeat; 
    height: 114px;
@@ -3180,7 +3180,7 @@ footer {
     padding: 0;
 }
 
-footer p {
+.footer p {
     color: #fff;
     display: block;
     font: 12px "Open Sans Light",sans-serif;
@@ -3190,7 +3190,7 @@ footer p {
   
 }
 
-footer p span {
+.footer p span {
     color: #fff;
     font: bold 12px "Open Sans Light",sans-serif;
     letter-spacing: 0.03em;
@@ -3875,7 +3875,7 @@ li.menu__item_drop-inside{
     clear: both;
 }
 
-footer {
+.footer {
     
    background: url("../img/960bg-footer.jpg") center 0 no-repeat; 
    height: 114px;
@@ -3888,7 +3888,7 @@ footer {
     padding: 0;
 }
 
-footer p {
+.footer p {
     color: #fff;
     display: block;
     font: 12px "Open Sans Light",sans-serif;
@@ -3898,7 +3898,7 @@ footer p {
   
 }
 
-footer p span {
+.footer p span {
     color: #fff;
     font: bold 12px "Open Sans Light",sans-serif;
     letter-spacing: 0.03em;
