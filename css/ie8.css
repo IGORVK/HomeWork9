@@ -24,17 +24,13 @@ html, body {
 
  body {
     background-color: #E9D3D6;  
-    overflow-x: hidden; 
 } 
 
   a img {
     border: none; 
 }
 
-.main {
-     overflow-x: hidden; 
- }
- 
+
  .wrapper {
     width: 99%;
     height: 99%;
